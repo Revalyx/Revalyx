@@ -19,24 +19,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </p>
 
-### 🛠️ Tecnologías Principales
+<img width="891" height="190" alt="image" src="https://github.com/user-attachments/assets/8320b466-1da9-4157-a28a-b3e2ef51416e" />
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=kotlin,java,php,js,python" />
-    </td>
-    <td align="center" width="33%">
-      <b>Web & Design</b><br><br>
-      <img src="https://skillicons.dev/icons?i=laravel,tailwind,html,css" />
-    </td>
-    <td align="center" width="33%">
-      <b>Tools & DB</b><br><br>
-      <img src="https://skillicons.dev/icons?i=android,unity,mysql,linux,git" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 

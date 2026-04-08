@@ -1,36 +1,55 @@
-# Hi there, I'm Revalyx! 🚀
+# ⚡ Revalyx
 
-Full Stack Developer with a focus on building robust web applications and exploring mobile development. I enjoy bridging the gap between clean back-end logic and interactive front-end experiences.
+<p align="left">
+  <img src="https://img.shields.io/badge/-Full--Stack--Developer-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Back--end%20%26%20Mobile-orange?style=flat-square" />
+</p>
 
-### 🛠 Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Back-end** | PHP, Laravel (Blade), Java, Python |
-| **Front-end** | JavaScript, HTML5, CSS3 |
-| **Mobile** | Kotlin |
-| **Database** | SQL |
+Full Stack Developer apasionado por el desarrollo de aplicaciones robustas y escalables. Me muevo entre el ecosistema de **Laravel** para web y **Kotlin** para soluciones móviles.
 
 ---
 
-### 📊 My GitHub Stats
+### 💻 Stack Tecnológico
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revalyx&show_icons=true&theme=tokyonight&hide_border=true" alt="Revalyx's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+**Languages & Core**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Web & Frameworks**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Revalyx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔭 Featured Projects
+### 📂 Proyectos Destacados
 
-* **[Project Name]**: Brief description of your best PHP/Laravel or Kotlin project.
-* **[Project Name]**: Brief description of another cool repo.
+> [!TIP]
+> Algunos de mis proyectos más relevantes centrados en rendimiento y lógica:
+
+
 
 ---
 
-### 📫 Reach me at:
-* **Discord:** `revalyx`
-* **GitHub:** [Revalyx](https://github.com/Revalyx)
+### 📫 Contacto
 
-*"Talk is cheap. Show me the code."*
+<p align="left">
+<a href="https://discord.com/users/tu_id_de_discord" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/Revalyx" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+*“Done is better than perfect, but clean code is non-negotiable.”*

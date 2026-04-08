@@ -15,18 +15,30 @@ Full Stack Developer apasionado por el desarrollo de aplicaciones robustas y esc
 
 ### 💻 Stack Tecnológico
 
-**Languages & Core**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🚀 Languages & Core
+| Icon | Technology | Tag |
+| :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin"/> | **Kotlin** | `development mobile` |
+| <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java"/> | **Java** | `backend web` |
+| <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP"/> | **PHP** | `logic services` |
+| <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS"/> | **JavaScript** | `front-end dynamic` |
+| <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/> | **Python** | `automation scripts` |
 
-**Web & Frameworks**
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web & Frameworks
+| Icon | Technology | Tag |
+| :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" alt="Laravel"/> | **Laravel** | `framework backend` |
+| <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind"/> | **TailwindCSS** | `css utility-first` |
+| <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/> | **HTML5** | `structure web` |
+| <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/> | **CSS3** | `styling web` |
+
+### 📱 Mobile, Gaming & Tools
+| Icon | Technology | Tag |
+| :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android"/> | **Android** | `os mobile` |
+| <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square" alt="Unity"/> | **Unity** | `game-dev 3d-2d` |
+| <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"/> | **MySQL** | `database relational` |
+| <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"/> | **Linux** | `os server-desktop` |
 
 ---
 

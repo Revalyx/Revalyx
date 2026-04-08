@@ -32,10 +32,7 @@ Full Stack Developer apasionado por el desarrollo de aplicaciones robustas y esc
 
 ### 📊 Actividad en GitHub
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Revalyx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Revalyx&theme=algolia&locale=es" alt="GitHub Streak" /></a>
 ---
 
 ### 📂 Proyectos Destacados

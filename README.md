@@ -46,10 +46,15 @@
 ---
 
 ### ⚡ Sobre mí
-- 🔭 Actualmente trabajando en proyectos de **Backend robustos**.
-- 🌱 Perfeccionando patrones de diseño en **Kotlin**.
-- 💬 Pregúntame sobre: **Laravel, Android Nativo y por qué el código limpio importa.**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Done%20is%20better%20than%20perfect,%20but%20clean%20code%20is%20non-negotiable." />
+<p align="left">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Mindset-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
+
+- 🚀 **Enfocado en:** El desarrollo de soluciones escalables, especialmente con **Laravel** para el backend y **Kotlin** para aplicaciones móviles.
+- 🎓 **Background:** Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 🧠 **Filosofía:** Soy un firme creyente de que *"el código se lee más veces de las que se escribe"*, por eso priorizo la limpieza y la mantenibilidad.
+- 🛠️ **Actualmente:** Perfeccionando patrones de diseño (MVVM, Clean Architecture) y explorando nuevas formas de optimizar APIs REST. Además, creando videojuegos como proyectos alternativos.
+- 💬 **Hablemos de:** Arquitectura de software, el ecosistema Android o por qué PHP sigue siendo una bestia en el desarrollo web moderno.
+
+---

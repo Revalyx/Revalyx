@@ -59,9 +59,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Revalyx&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Revalyx&theme=modern-lilac2" alt="GitHub Streak" /></a>
 
 ---
 

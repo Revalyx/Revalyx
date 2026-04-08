@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.shoppub.io/fit-in/960x540/filters:format(webp):quality(100)/files/b/a/banner-emilio-final.webp" alt="Banner de perfil de Emilio Reyes Vaquero" width="100%" />
+  <img src="banner.png" alt="Banner de perfil de Emilio Reyes Vaquero" width="100%" />
 </p>
 
 # ⚡ Revalyx

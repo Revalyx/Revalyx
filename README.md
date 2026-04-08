@@ -40,14 +40,15 @@ Full Stack Developer apasionado por el desarrollo de aplicaciones robustas y esc
 > [!TIP]
 > Algunos de mis proyectos más relevantes centrados en rendimiento y lógica:
 
-
+* **[Sistema de Gestión]** - Breve descripción de tu proyecto principal con Laravel/PHP.
+* **[App Mobile]** - Alguna implementación interesante en Kotlin o Java.
 
 ---
 
-### 📫 Contacto
+### 📫 Conecta conmigo
 
 <p align="left">
-<a href="https://discord.com/users/tu_id_de_discord" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emilioreyesvaquero" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Revalyx" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 

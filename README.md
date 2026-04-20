@@ -72,5 +72,4 @@
 ### 📊 Mi Actividad
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Revalyx&theme=modern-lilac2" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=donut)](https://github.com/Revalyx/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=pie)](https://github.com/Revalux/github-readme-stats)

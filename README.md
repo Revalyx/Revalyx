@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emilioreyesvaquero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:emilio93erv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:emilio93erv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -76,16 +76,12 @@
 
 ---
 
-### 📊 Estadísticas & Actividad
+### 📊 Actividad en GitHub
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Revalyx&theme=modern-lilac2&border_radius=8" alt="GitHub Streak" />
   </a>
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=compact&langs_count=4&theme=radical&border_radius=8" alt="Top Langs" />
 
 </div>

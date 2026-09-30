@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emilioreyesvaquero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emilioreyesvaquero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:emilio93erv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -70,7 +71,7 @@
 
 - 🚀 **En qué estoy:** Diseñando ecosistemas full-stack seguros, conectando clientes móviles nativos (Kotlin) con backends eficientes en contenedores Docker sobre Linux.
 - 🎓 **Formación:** Técnico Superior en **DAM** con especialización en **Ciberseguridad**.
-- 🧠 **Mentalidad:** Programación defensiva desde la línea cero, código limpio y arquitectura orientada a la estabilidad en producción.
+- 🧠 **Mentalidad:** Programación defensiva desde la línea cero, código limpio y arquitectura orientada al rendimiento y la estabilidad en producción.
 - 💬 **Hablemos de:** Desarrollo multiplataforma, seguridad aplicada a APIs o patrones de arquitectura limpia.
 
 ---
@@ -85,8 +86,6 @@
   
   <br><br>
 
-  <a href="https://github.com/Revalyx/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=compact&langs_count=4&hide=html,css,shell,dockerfile&theme=radical&border_radius=8" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalyx&layout=compact&langs_count=4&theme=radical&border_radius=8" alt="Top Langs" />
 
 </div>
